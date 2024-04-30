@@ -1,6 +1,6 @@
-package aula_015_OperadoresAritimeticos01;
+package aula_015_OperadoresAritimeticos;
 
-public class Aula015OperadoresAritimeticos01 {
+public class Aula015OperadoresAritimeticos {
     public static void main(String[] args) {
         // Operadores básicos + - / *
         int num1 = 10;
