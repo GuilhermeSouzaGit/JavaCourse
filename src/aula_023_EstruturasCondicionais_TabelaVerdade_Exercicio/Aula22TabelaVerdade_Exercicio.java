@@ -1,0 +1,4 @@
+package aula_023_EstruturasCondicionais_TabelaVerdade_Exercicio;
+
+public class Aula22TabelaVerdade_Exercicio {
+}
